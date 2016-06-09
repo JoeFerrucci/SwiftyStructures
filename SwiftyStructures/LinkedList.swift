@@ -69,7 +69,7 @@ public struct LinkedListGenerator<Element>: GeneratorType {
 }
 
 /**
- A data structure representing a list that is singly linked with nodes.
+ A data structure representing a doubly linked list.
 */
 public struct LinkedList<Element> {
 
