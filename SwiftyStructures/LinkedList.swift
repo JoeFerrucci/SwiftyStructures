@@ -43,7 +43,7 @@ public class Node<Element> {
 }
 
 /**
- A generator for a accessing a linked list iteratively.
+ A generator for accessing a linked list iteratively.
 */
 public struct LinkedListGenerator<Element>: GeneratorType {
 
